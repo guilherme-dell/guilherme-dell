@@ -15,4 +15,9 @@
 </div>
 
 ## 
-  
+
+<h3> 42 Projects 🚧 </h3>
+
+
+![Libft](https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png)
+![GNL](https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png)

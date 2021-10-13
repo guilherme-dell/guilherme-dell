@@ -6,7 +6,7 @@
 
 * I’m currently studying Software Engineering at [42 São Paulo](https://www.42sp.org.br/)
 * I love music and I'm always with headphones
-* I always liked to program at dawn
+* I always liked to program at until dawn
 
 
 <div>

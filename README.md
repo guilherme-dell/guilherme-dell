@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/780570837505540126/897892564454211655/room.gif" height="270" width="1080">
 
-<h2> Hello my name is... Guilherme</h2>
+<h2> Hello my name is...</h2>
 
 <h3>About me</h3>
 

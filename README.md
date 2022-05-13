@@ -18,9 +18,10 @@
 
 <h3> 42 Projects 🚧 </h3>
 
-<a href="//www.google.com"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
+
+
 ![LIBFT](https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png)
-![GNL](https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png)
-![FT_PRINTF](https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png)
+<a href="//github.com/guilherme-dell/GNL-I-HATE-YOU"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png"></a>
+<a href="//github.com/guilherme-dell/FT_PRINTF"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png"></a>
 ![BORN2BERROT](https://cdn.discordapp.com/attachments/780570837505540126/974802313619333170/born2beroot.png)
-![SO_LONG](https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png)
+<a href="//github.com/guilherme-dell/so_long"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png"></a>

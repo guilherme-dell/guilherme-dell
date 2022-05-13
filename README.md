@@ -19,5 +19,8 @@
 <h3> 42 Projects 🚧 </h3>
 
 
-![Libft](https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png)
+![LIBFT](https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png)
 ![GNL](https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png)
+![FT_PRINTF](https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png)
+![BORN2BERROT](https://cdn.discordapp.com/attachments/780570837505540126/974802313619333170/born2beroot.png)
+![SO_LONG](https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png)

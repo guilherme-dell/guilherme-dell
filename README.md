@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/780570837505540126/897892564454211655/room.gif" height="270" width="1080">
+<img src="https://cdn.discordapp.com/attachments/780570837505540126/975888691295813682/my_inspiration.gif" height="335" width="1080">
 
 <h2> Hello my name is...</h2>
 

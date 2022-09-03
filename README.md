@@ -1,4 +1,6 @@
+<center>
 <img src="https://cdn.discordapp.com/attachments/780570837505540126/975888691295813682/my_inspiration.gif" height="310" width="845">
+</center>
 
 <h2> Hello stranger... you look lonely.</h2>
 

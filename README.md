@@ -10,6 +10,12 @@
 * I love music and I'm always with headphones
 * I always liked to program at until dawn
 
+<h3>What I'm currently doing</h3>
+
+* Learning go
+* Learning python
+* Learning TDD
+* Learning Frontend Technologies
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-dell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>

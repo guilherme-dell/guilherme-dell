@@ -16,6 +16,8 @@
 * Learning python
 * Learning TDD
 * Learning Frontend Technologies
+* Learning Docker
+* Learning CI/CD
 
 
 <div>

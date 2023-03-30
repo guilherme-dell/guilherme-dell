@@ -13,7 +13,6 @@
 <h3>What I'm currently doing</h3>
 
 * Learning go
-* Learning python
 * Learning TDD
 * Learning Frontend Technologies
 * Learning Docker

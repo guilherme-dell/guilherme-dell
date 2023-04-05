@@ -12,11 +12,11 @@
 
 <h3>What I'm currently doing</h3>
 
-* Learning go
+* Learning GO
+* Learning JAVA
 * Learning TDD
-* Learning Frontend Technologies
+* Learning Clean Architecture
 * Learning Docker
-* Learning CI/CD
 
 
 <div>

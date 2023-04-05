@@ -37,3 +37,7 @@
 <a href="//github.com/guilherme-dell/BORN2BEROOT"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802313619333170/born2beroot.png"></a>
 <a href="//github.com/guilherme-dell/so_long"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png"></a>
 <a href="//github.com/guilherme-dell/minitalk_fast"><img src="https://cdn.discordapp.com/attachments/780570837505540126/991031614475730994/minitalk.png"></a>
+<a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093224972509519992/push_swape.png"></a>
+<a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225011617214624/minishelle.png"></a>
+<a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225022748889118/philosopherse.png"></a>
+<a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225034446815333/netpracticee.png"></a>

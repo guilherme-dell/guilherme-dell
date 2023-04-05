@@ -30,7 +30,7 @@
 
 
 
-
+<div>
 <a href="//github.com/guilherme-dell/LIBFT"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png"></a>
 <a href="//github.com/guilherme-dell/GNL-I-HATE-YOU"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png"></a>
 <a href="//github.com/guilherme-dell/FT_PRINTF"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png"></a>
@@ -41,3 +41,4 @@
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225011617214624/minishelle.png"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225022748889118/philosopherse.png"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225034446815333/netpracticee.png"></a>
+</div>

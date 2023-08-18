@@ -15,8 +15,6 @@
 * Learning C++
 * Learning GO
 * Learning Docker
-* Learning Clean Architecture
-
 
 ##
 

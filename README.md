@@ -21,11 +21,11 @@
 <h3> 42 Projects 🚧 </h3>
 
 <div>
-<a href="//github.com/guilherme-dell/LIBFT"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951891395313725/libfte.png?ex=65e8d95e&is=65d6645e&hm=5760b6c1834fe8513b2419ca0e23137ecdfe5272aacf78b7662adff3dfff40cc&"></a>
-<a href="//github.com/guilherme-dell/GNL-I-HATE-YOU"><img src="https://cdn.discordapp.com/attachments/780570837505540126/897951928598790225/get_next_linee.png?ex=65e8d966&is=65d66466&hm=461cf4279d743712038e0758791a96e65eea907a6842dcc687a01842ee5d2b6b&"></a>
-<a href="//github.com/guilherme-dell/FT_PRINTF"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802280060706886/ft_printf.png?ex=65eb92de&is=65d91dde&hm=94e8b587cec199f5ce896d001b581ea1b6b23c1bdafb31c317aeabfce4b15688&"></a>
-<a href="//github.com/guilherme-dell/BORN2BEROOT"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802313619333170/born2beroot.png"></a>
-<a href="//github.com/guilherme-dell/so_long"><img src="https://cdn.discordapp.com/attachments/780570837505540126/974802342400655360/so_long.png?ex=65eb92ed&is=65d91ded&hm=ebd1c19c6ff684c0dd7de66feedb9eb724a99513e2ddd757c9185bf93c8dba24&"></a>
+<a href="//github.com/guilherme-dell/LIBFT"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1222755328890896424/libfte.png?ex=66175ea4&is=6604e9a4&hm=ef61bc9d45e122c19798c6ec33bcbfe81b3657a052e2718e57e7d583879d96c6&"></a>
+<a href="//github.com/guilherme-dell/GNL-I-HATE-YOU"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1222755364521513020/get_next_linee.png?ex=66175eac&is=6604e9ac&hm=fd1af6d9aec662119dc6578a40b065fcfde59087aeb99e7b4d231e58453fbbfb&"></a>
+<a href="//github.com/guilherme-dell/FT_PRINTF"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1222755390274670693/ft_printf.png?ex=66175eb2&is=6604e9b2&hm=7baf9b99975965345a768787a731590f45dee17785e65ece42ef94d1c27b702a&"></a>
+<a href="//github.com/guilherme-dell/BORN2BEROOT"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1222755417969393714/born2beroot.png?ex=66175eb9&is=6604e9b9&hm=d2547b54852bf431761abeb314128bb1bd639cdc53a87f6a5b8b343eef20ffbe&"></a>
+<a href="//github.com/guilherme-dell/so_long"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1222755443508510752/so_long.png?ex=66175ebf&is=6604e9bf&hm=11dc20c3d49bf34e51c60ae4fc595ba5cb2add4b6d1b3173c8d1eed78ab35dcd&"></a>
 <a href="//github.com/guilherme-dell/minitalk_fast"><img src="https://cdn.discordapp.com/attachments/780570837505540126/991031614475730994/minitalk.png?ex=65ef3e9d&is=65dcc99d&hm=94136eff8fabaaf1de9c764c93cfb875bcee1a8c439d38ccd2d855d8bbeba9f9&"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093224972509519992/push_swape.png?ex=6616cb98&is=66045698&hm=ce3a143b15a80d00f9a7341890939e4610ec61b9a80e5a4b10d98393030b5c0a&"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225011617214624/minishelle.png?ex=6616cba1&is=660456a1&hm=0af807314d9e6205d23e2bbe6003fcd44a044762b10902c0ac006ac1b6a07820&"></a>

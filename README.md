@@ -12,7 +12,6 @@
 
 <h3>What I'm currently doing</h3>
 
-* Learning C++
 * Learning GO
 * Learning Docker
 

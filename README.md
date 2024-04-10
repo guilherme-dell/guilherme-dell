@@ -30,5 +30,5 @@
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225011617214624/minishelle.png?ex=6616cba1&is=660456a1&hm=0af807314d9e6205d23e2bbe6003fcd44a044762b10902c0ac006ac1b6a07820&"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225022748889118/philosopherse.png?ex=6616cba4&is=660456a4&hm=99d2990700800b97f95642a7be54a3f5a0516897148aedbe0f12c978288a1416&"></a>
 <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1093225034446815333/netpracticee.png?ex=6616cba7&is=660456a7&hm=53fd2d8a359a6d1cd893c4d646326762de9e803f7b54274f8fc16ef2fb11294c&"></a>
-<a href="//github.com/guilherme-dell/cub3D"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1121804661205241887/cub3dn.png?ex=66100681&is=65fd9181&hm=c1c4f811056b1c71d24923a913a520f84dccf4e11e3d65ae58eb88dec28b3259&"></a>
+<a href="//github.com/guilherme-dell/cub3D"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1121804661205241887/cub3dn.png?ex=66227b81&is=66100681&hm=6b4ccca81ca3996e74ae5747e34a67e451d523ffbeff288469a2b8ad5d6ad951&"></a>
 </div>

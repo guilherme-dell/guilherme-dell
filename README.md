@@ -37,5 +37,5 @@
 <h3> My Projects 👾 </h3>
 
 <div>
-  <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/780570837505540126/1227465856582291527/gopher-confused.png?ex=662881a9&is=66160ca9&hm=b3cfb60352db12ed87ef502042f581d733253632ff805d421bf3539f1111d6ce&" height="70" width="70"></a>
+  <a href="//github.com/guilherme-dell"><img src="https://cdn.discordapp.com/attachments/976803430624526346/1227637307822182530/currency_api.png?ex=66292156&is=6616ac56&hm=7aba1549d08265f9cbf21a9236341179b26667ffbbf11a7310019fabd8150576&"></a>
 </div>

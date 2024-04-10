@@ -1,5 +1,5 @@
 <center>
-<img src="https://cdn.discordapp.com/attachments/780570837505540126/975888691295813682/my_inspiration.gif">
+<img src="https://cdn.discordapp.com/attachments/780570837505540126/975888691295813682/my_inspiration.gif?ex=6626e5ab&is=661470ab&hm=ee09fd7e86838b2d0e8505c922a03449c83cd73cc7e84478a4acebd60ad64c51&">
 </center>
 
 <h2> Hello stranger... you look lonely.</h2>

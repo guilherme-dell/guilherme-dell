@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/1ZuvA23.gif">
 </center>
 
-<h2> Hello stranger... you look lonely.</h2>
+<h2> Hello stranger...</h2>
 
 <h3>About me</h3>
 

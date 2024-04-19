@@ -37,5 +37,5 @@
 <h3> My Projects 👾 </h3>
 
 <div>
-  <a href="//github.com/guilherme-dell/currency-API"><img src="https://i.imgur.com/ICEiOf3.png"></a>
+  <a href="//github.com/guilherme-dell/currency-API"><img src="https://i.imgur.com/uSJH0jE.png"></a>
 </div>

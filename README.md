@@ -2,22 +2,22 @@
 <img src="https://i.imgur.com/1ZuvA23.gif">
 </center>
 
-<h2> Hello...</h2>
+## Hello...
 
-<h3>About me</h3>
+### About me
 
-* I love music and I'm always with headphones
-* I always liked to program at until dawn
+- I love music and I'm always with headphones
+- I always liked to program at until dawn
 
-<h3>What I'm currently doing</h3>
+### What I'm currently doing
 
-* Learning GO
-* Learning Java
-* Learning GUI frameworks for GO (I chose the fyne 😆)
+- Learning GO
+- Learning Java
+- Learning GUI frameworks for GO (I chose the [fyne](https://fyne.io) 😆)
 
 ##
 
-<h3> 42 Projects 🚧 </h3>
+### 42 Projects 🚧
 
 <div>
 <a href="//github.com/guilherme-dell/LIBFT"><img src="https://i.imgur.com/u4RQLqL.png"></a>
@@ -34,8 +34,12 @@
 </div>
 
 ##
-<h3> My Projects 👾 </h3>
+
+### My Projects 👾
 
 <div>
   <a href="//github.com/guilherme-dell/zpl-down"><img src="https://imgur.com/uSJH0jE.png"></a>
 </div>
+
+
+##

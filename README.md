@@ -12,7 +12,8 @@
 <h3>What I'm currently doing</h3>
 
 * Learning GO
-* Learning Docker
+* Learning Java
+* Learning GUI frameworks for GO (I chose the fyne 😆)
 
 ##
 

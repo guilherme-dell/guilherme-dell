@@ -14,6 +14,9 @@
 - Learning GO
 - Learning Java
 - Learning GUI frameworks for GO (I chose the [fyne](https://fyne.io) 😆)
+- Personal projects I'm developing:
+  - [ZPL-Down](https://github.com/guilherme-dell/zpl-down)
+  - [VaultGuard](https://github.com/guilherme-dell/VaultGuard)
 
 ##
 
